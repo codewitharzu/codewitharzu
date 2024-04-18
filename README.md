@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codewitharzu
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently taking Junior IT Analyst Course in Npower Canada
+- 🌱 I’m a Junior IT Analyst
 - 📫 How to reach me : with email arzudincerabdullayev@gmail.com
 - 😄 Pronouns : She
